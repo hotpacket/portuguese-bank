@@ -1,6 +1,6 @@
 # Portuguese Bank
 
-We created a model to predict the success of a Portuguese bank's marketing campaign. The goal of the campaign is to convince customers to purchase bank deposit subsriptions. The model will attempt to identify customers with a greater likelihood of purchasing subscriptions.
+We created a model to predict the success of a Portuguese bank's marketing campaign. The goal of the campaign is to convince customers to purchase bank deposit subsriptions. The model attempted to identify customers with a greater likelihood of purchasing subscriptions.
 
 To this end, we tried several classification models, namely K-Nearest Neighbors, Logistic Regression, Decision Trees, and Support Vector Machines. 
 
