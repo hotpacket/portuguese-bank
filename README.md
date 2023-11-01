@@ -2,7 +2,7 @@
 
 We created a model to predict the success of a Portuguese bank's marketing campaign. The goal of the campaign is to convince customers to purchase bank deposit subsriptions. The model will attempt to identify customers with a greater likelihood of purchasing subscriptions.
 
-To this end, we will try several classification models, namely K-Nearest Neighbors, Logistic Regression, Decision Trees, and Support Vector Machines. 
+To this end, we tried several classification models, namely K-Nearest Neighbors, Logistic Regression, Decision Trees, and Support Vector Machines. 
 
 Our dataset comes from the UCI Machine Learning repository (https://archive.ics.uci.edu/ml/datasets/bank+marketing). 
 
