@@ -24,7 +24,7 @@ Our models did not vastly improve the baseline model, which had a test accuracy 
 
 <img width="833" alt="image" src="https://github.com/hotpacket/portuguese-bank/assets/136177819/4097685f-4951-4549-bf3f-bc00dbe30686">
 
-Overall, due to the comingling of the classifications across all features, it was difficult to develop a highly accurate model. Our final model improved upon the baseline, but peaked at 0.912681 test accuracy.
+Overall, due to the commingling of the classifications across all features, it was difficult to develop a highly accurate model. Our final model improved upon the baseline, but peaked at 0.912681 test accuracy.
 
 
 
