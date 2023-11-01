@@ -14,9 +14,18 @@ Our most accurate classification model (and fastest to train) was the decision t
 
 <img width="444" alt="image" src="https://github.com/hotpacket/portuguese-bank/assets/136177819/c90ae552-f69a-404f-a553-15ec859b1e98">
 
-The following picture describes the decision tree (click picture to open and click again to enlarge):
+The following picture describes the decision tree of our most accurate model (click picture to open in new tab and click again to enlarge):
 
 ![dtree_render](https://github.com/hotpacket/portuguese-bank/assets/136177819/4addda67-44ab-4760-9d96-5f19b332a263)
+
+Our models did not vastly improve the baseline model, which had a test accuracy of 0.887594. The data overlapped greatly and it was difficult to draw decision boundaries. Some images below illustrate the overlap of the classifications.
+
+<img width="808" alt="image" src="https://github.com/hotpacket/portuguese-bank/assets/136177819/3d33aa26-a8ef-4ebb-a7a1-71861b1fa7ee">
+
+<img width="833" alt="image" src="https://github.com/hotpacket/portuguese-bank/assets/136177819/4097685f-4951-4549-bf3f-bc00dbe30686">
+
+Overall, due to the comingling of the classifications across all features, it was difficult to develop a highly accurate model. Our final model improved upon the baseline, but peaked at 0.912681 test accuracy.
+
 
 
 
