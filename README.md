@@ -10,11 +10,15 @@ Our dataset comes from the UCI Machine Learning repository (https://archive.ics.
 
 <img width="317" alt="image" src="https://github.com/hotpacket/portuguese-bank/assets/136177819/9aec1091-5abc-43a1-bb93-00b8d9b45dea">
 
-Our most accurate classification model (and fastest to train) was the decision tree model, as seen in the chart above.
+Our most accurate classification model (and fastest to train) was the decision tree model, as seen in the chart above. By tuning hyperparameters, we were able to boost test accuracy slightly as shown below:
+
+<img width="444" alt="image" src="https://github.com/hotpacket/portuguese-bank/assets/136177819/c90ae552-f69a-404f-a553-15ec859b1e98">
+
+The following picture describes the decision tree (click picture to open and click again to enlarge):
 
 ![dtree_render](https://github.com/hotpacket/portuguese-bank/assets/136177819/4addda67-44ab-4760-9d96-5f19b332a263)
 
-A full-size picture of the decision tree can be found here: 
+
 
 
 
